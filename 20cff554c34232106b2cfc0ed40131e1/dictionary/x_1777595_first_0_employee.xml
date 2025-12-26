@@ -2,7 +2,7 @@
     <element db_object_id="b344c698c34232106b2cfc0ed40131cf" label="Employee" max_length="40" name="x_1777595_first_0_employee" type="collection">
         <element display="true" label="EmpId" max_length="40" name="empid" type="integer"/>
         <element label="Designation" max_length="20" name="designation" type="string"/>
-        <element label="EmpEmail" max_length="40" name="empemail" type="string"/>
+        <element label="EmpEmail" max_length="50" name="empemail" type="string"/>
         <element label="Experience" max_length="40" name="experience" type="integer"/>
     </element>
 </database>
