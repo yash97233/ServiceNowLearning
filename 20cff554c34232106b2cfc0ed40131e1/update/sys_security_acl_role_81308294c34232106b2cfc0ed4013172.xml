@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-22 07:05:19</sys_created_on>
+        <sys_id>81308294c34232106b2cfc0ed4013172</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1777595_first_0_user.x_1777595_first_0.admin</sys_name>
+        <sys_package display_value="First Authentication App" source="x_1777595_first_0">20cff554c34232106b2cfc0ed40131e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="First Authentication App">20cff554c34232106b2cfc0ed40131e1</sys_scope>
+        <sys_security_acl display_value="x_1777595_first_0_user">c1308294c34232106b2cfc0ed401316f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_81308294c34232106b2cfc0ed4013172</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-22 07:05:19</sys_updated_on>
+        <sys_user_role display_value="x_1777595_first_0.admin" name="x_1777595_first_0.admin">accff554c34232106b2cfc0ed40131e7</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

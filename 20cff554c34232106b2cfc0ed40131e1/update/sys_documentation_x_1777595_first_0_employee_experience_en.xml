@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="experience" label="Experience" language="en" table="x_1777595_first_0_employee">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>experience</element>
+            <help/>
+            <hint/>
+            <label>Experience</label>
+            <language>en</language>
+            <name>x_1777595_first_0_employee</name>
+            <plural>Experiences</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-12-22 07:26:04</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Experience</sys_name>
+            <sys_package display_value="First Authentication App" source="x_1777595_first_0">20cff554c34232106b2cfc0ed40131e1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="First Authentication App">20cff554c34232106b2cfc0ed40131e1</sys_scope>
+            <sys_update_name>sys_documentation_x_1777595_first_0_employee_experience_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-12-22 07:26:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

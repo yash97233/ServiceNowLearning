@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1f200294c34232106b2cfc0ed40131cf" label="User" max_length="40" name="x_1777595_first_0_user" type="collection">
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Password" max_length="40" name="password" type="string"/>
+        <element label="Username" max_length="20" name="username" type="string"/>
+        <element choice="1" label="Gender" max_length="40" name="gender" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Female" value="female"/>
+                <element inactive_on_update="false" label="Male" value="male"/>
+                <element inactive_on_update="false" label="Other" value="other"/>
+            </choice>
+        </element>
+        <element label="Email" max_length="60" name="email" type="string"/>
+        <element label="EmpID" max_length="40" name="empid" reference="x_1777595_first_0_employee" type="reference"/>
+        <element label="Short Description" max_length="500" name="short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
