@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1777595_first_0.employee_user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>employee_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-22 07:23:48</sys_created_on>
+        <sys_id>736442d4c34232106b2cfc0ed40131de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1777595_first_0.employee_user</sys_name>
+        <sys_package display_value="First Authentication App" source="x_1777595_first_0">20cff554c34232106b2cfc0ed40131e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="First Authentication App">20cff554c34232106b2cfc0ed40131e1</sys_scope>
+        <sys_update_name>sys_user_role_736442d4c34232106b2cfc0ed40131de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-22 07:23:48</sys_updated_on>
+    </sys_user_role>
+</record_update>
