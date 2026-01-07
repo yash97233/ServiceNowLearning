@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+    "table": "task",
+    "sysId": "0861ef74d0c722105590fd9a5a77e7ad",
+    "query": "",
+    "extraParams": "",
+    "views": "",
+    "selectedTab": ""
+}</macroponent_config>
+        <screen display_value="User Record">9258fdefc386f2106b2cfc0ed4013132</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-01 08:51:15</sys_created_on>
+        <sys_id>5e58fdefc386f2106b2cfc0ed4013136</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="First Authentication App" source="x_1777595_first_0">20cff554c34232106b2cfc0ed40131e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="First Authentication App">20cff554c34232106b2cfc0ed40131e1</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_5e58fdefc386f2106b2cfc0ed4013136</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-01 08:51:15</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

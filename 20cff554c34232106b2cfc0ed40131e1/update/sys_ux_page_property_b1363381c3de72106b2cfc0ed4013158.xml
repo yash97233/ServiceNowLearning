@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>actionConfigId</name>
+        <page display_value="Authentication Experience">e78e4c0fc38632106b2cfc0ed40131be</page>
+        <required_translations/>
+        <route/>
+        <suffix>actionConfigId</suffix>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-06 09:52:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>b1363381c3de72106b2cfc0ed4013158</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>actionConfigId</sys_name>
+        <sys_package display_value="First Authentication App" source="x_1777595_first_0">20cff554c34232106b2cfc0ed40131e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="First Authentication App">20cff554c34232106b2cfc0ed40131e1</sys_scope>
+        <sys_update_name>sys_ux_page_property_b1363381c3de72106b2cfc0ed4013158</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-06 09:52:28</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1777595_first_0.e78e4c0fc38632106b2cfc0ed40131be.root.global.actionConfigId</unique_name>
+        <value>a1063381c3de72106b2cfc0ed4013152</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=b1363381c3de72106b2cfc0ed4013158"/>
+</record_update>

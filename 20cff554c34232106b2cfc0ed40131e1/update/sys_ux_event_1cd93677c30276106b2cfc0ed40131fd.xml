@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>UPDATE_TITLE_AND_QUERY_BOTH</event_name>
+        <explicit_api_name/>
+        <interfaces/>
+        <label>Update Title and Query Both</label>
+        <props>[
+    {
+        "fieldType": "string",
+        "id": "UzCZ5vYQDE629fEG3ENk7A3Y",
+        "interfaceApiName": "",
+        "label": "List value",
+        "mandatory": false,
+        "name": "heListTitle",
+        "readOnly": false,
+        "type": "string",
+        "typeMetadata": {
+            "schema": {
+                "type": "string"
+            }
+        }
+    },
+    {
+        "fieldType": "string",
+        "id": "HIe50474iAErD9k4DnJSvXyut",
+        "interfaceApiName": "",
+        "label": "List Query",
+        "mandatory": false,
+        "name": "heListQuery",
+        "readOnly": false,
+        "type": "string",
+        "typeMetadata": null
+    }
+]</props>
+        <required_translations>[ {
+  "message" : "List Query",
+  "comment" : ""
+}, {
+  "message" : "List value",
+  "comment" : ""
+} ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-02 09:16:33</sys_created_on>
+        <sys_id>1cd93677c30276106b2cfc0ed40131fd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Update Title and Query Both</sys_name>
+        <sys_package display_value="First Authentication App" source="x_1777595_first_0">20cff554c34232106b2cfc0ed40131e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="First Authentication App">20cff554c34232106b2cfc0ed40131e1</sys_scope>
+        <sys_update_name>sys_ux_event_1cd93677c30276106b2cfc0ed40131fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-02 11:52:07</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=1cd93677c30276106b2cfc0ed40131fd"/>
+</record_update>
