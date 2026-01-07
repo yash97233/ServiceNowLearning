@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Authentication Experience">df8e040fc38632106b2cfc0ed40131a3</app_config>
+        <description/>
+        <extension_point/>
+        <fields>table,sysId</fields>
+        <icon/>
+        <name>Record</name>
+        <optional_parameters>query,extraParams,views,selectedTab</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>record</route_type>
+        <screen_type display_value="Record">b158752fc386f2106b2cfc0ed4013190</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-01 08:51:14</sys_created_on>
+        <sys_id>b158752fc386f2106b2cfc0ed4013194</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record</sys_name>
+        <sys_package display_value="First Authentication App" source="x_1777595_first_0">20cff554c34232106b2cfc0ed40131e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="First Authentication App">20cff554c34232106b2cfc0ed40131e1</sys_scope>
+        <sys_update_name>sys_ux_app_route_b158752fc386f2106b2cfc0ed4013194</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-01 08:51:14</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=b158752fc386f2106b2cfc0ed4013194"/>
+</record_update>

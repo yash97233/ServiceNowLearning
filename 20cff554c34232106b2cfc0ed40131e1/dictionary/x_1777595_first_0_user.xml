@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="1f200294c34232106b2cfc0ed40131cf" label="User" max_length="40" name="x_1777595_first_0_user" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <element label="Password" max_length="40" name="password" type="string"/>
         <element label="Username" max_length="20" name="username" type="string"/>
